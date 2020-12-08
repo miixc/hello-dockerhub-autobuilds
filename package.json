@@ -1,0 +1,28 @@
+{
+  "name": "hello-dockerized-node-webapp",
+  "version": "0.0.0",
+  "description": "node.js on docker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miixc/hello-dockerized-node-webapp.git"
+  },
+  "keywords": [
+    "node.js",
+    "docker",
+    "dockerhub",
+    "autobuilds"
+  ],
+  "author": "miixc <kaifeng416@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miixc/hello-dockerized-node-webapp/issues"
+  },
+  "homepage": "https://github.com/miixc/hello-dockerized-node-webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
